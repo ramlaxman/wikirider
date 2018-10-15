@@ -1,7 +1,8 @@
 # WikiRider
 ##
-Do a Wikirun directly from your terminal ( assuming you use Linux or Mac )!<br />
-[![Travis](https://img.shields.io/travis/sadboyzvone/wikirider.svg)](https://github.com/sadboyzvone/8080py)
+Do a Wikirun directly from your terminal (assuming you are using Linux or Mac) !
+
+[![Build Status](https://travis-ci.org/sadboyzvone/wikirider.svg?branch=master)](https://travis-ci.org/sadboyzvone/wikirider)
 [![Known Vulnerabilities](https://snyk.io/test/github/sadboyzvone/wikirider/badge.svg)](https://snyk.io/test/github/sadboyzvone/wikirider)
 [![Code Climate](https://img.shields.io/codeclimate/coverage/github/sadboyzvone/wikirider.svg)](https://github.com/sadboyzvone/8080py)
 ## Install
